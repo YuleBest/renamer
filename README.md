@@ -19,5 +19,5 @@ renamer 旨在解决原生 Web 开发的缓存更新问题。
 
 ```text
 .rename/
-rename.py
+renamer.py
 ```
